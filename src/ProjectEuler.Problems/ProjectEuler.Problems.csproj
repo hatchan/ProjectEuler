@@ -8,8 +8,8 @@
     <ProjectGuid>{DB1F955C-0084-4F5E-8EAA-6C874E11D7A1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ProjhectEuler.Problems</RootNamespace>
-    <AssemblyName>ProjhectEuler.Problems</AssemblyName>
+    <RootNamespace>ProjectEuler.Problems</RootNamespace>
+    <AssemblyName>ProjectEuler.Problems</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

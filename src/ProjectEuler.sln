@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler.Runner", "ProjectEuler.Runner\ProjectEuler.Runner.csproj", "{1A987D0B-4CA9-40DC-A4B7-4B45AEA32360}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjhectEuler.Problems", "ProjhectEuler.Problems\ProjhectEuler.Problems.csproj", "{DB1F955C-0084-4F5E-8EAA-6C874E11D7A1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler.Problems", "ProjectEuler.Problems\ProjectEuler.Problems.csproj", "{DB1F955C-0084-4F5E-8EAA-6C874E11D7A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
